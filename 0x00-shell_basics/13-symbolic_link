@@ -1,2 +1,2 @@
  #!/bin/bash
-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
+ln -s /bin/ls __ls__
